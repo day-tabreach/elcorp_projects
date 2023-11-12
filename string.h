@@ -3,7 +3,10 @@
 #include <cstring>
 
 #define max 100
-
+/*
+	don't forget to change Flickr username to something not linked to my email
+	wouldn't want anyone to find that one....
+*/
 
 class string 
 {
